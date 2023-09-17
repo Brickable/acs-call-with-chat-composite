@@ -1,14 +1,17 @@
----
-page_type: sample
-languages:
-  - javascript
-  - nodejs
-products:
-  - azure
-  - azure-communication-services
+# Group Call and Chat Sample
+
 ---
 
-# Group Call and Chat Sample
+page type: sample
+languages:
+
+- javascript
+- nodejs
+  products:
+- azure
+- azure-communication-services
+
+---
 
 ## Overview
 
